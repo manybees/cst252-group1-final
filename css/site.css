@@ -1,5 +1,9 @@
-#background {
-  background: url("img/gifproto.gif");
-  background-repeat: no-repeat;
-  background-size: auto;
+#bg {
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+.bg-audio {
+  display: none;
 }
